@@ -1,0 +1,26 @@
+{
+  "name": "open-org-survey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "organization",
+    "survey",
+    "open",
+    "transparency",
+    "collaboration",
+    "inclusivity",
+    "community",
+    "adaptability"
+  ],
+  "author": "PiratePartyBE <contact@pirateparty.be>",
+  "license": "MIT",
+  "dependencies": {
+    "d3": "^3.5.17",
+    "jquery": "^3.2.1",
+    "survey-jquery": "^0.12.23"
+  }
+}
